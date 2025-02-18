@@ -1,0 +1,26 @@
+/*
+ * @Author: Lockly
+ * @Date: 2025-02-12 22:54:13
+ * @LastEditors: Lockly
+ * @LastEditTime: 2025-02-12 23:21:50
+ */
+
+
+body {
+    margin: 0;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+@font-face {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 400;
+    src: local(""),
+    url("assets/fonts/nunito-v16-latin-regular.woff2") format("woff2");
+}
+
+#app {
+    text-align: center;
+}
